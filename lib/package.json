@@ -1,0 +1,19 @@
+{
+  "name": "repeat",
+  "version": "1.0.0",
+  "description": "A JS library to remove boilerplate from for-loops.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node lib/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "homepage": "",
+  "keywords": ["repeat", "loop", "boilerplate", "fastloop", "forloop", "whileloop", "repeatjs", "repeatcode", "ease", "anoch", "anoch jeyakanthan"],
+  "author": "Anoch Jeyakanthan",
+  "license": "ISC"
+}
