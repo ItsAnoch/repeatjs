@@ -3,6 +3,17 @@
 #### Exact same speed as a normal for-loop.
 ---
 
+## Installation
+```
+npm install repeatjs
+```
+---
+## Importing
+```
+import repeat from "repeatjs/index.js";
+```
+---
+
 ## Syntax:
 ```js
 repeat((index, end) => { // Index and end can be renamed to anything.

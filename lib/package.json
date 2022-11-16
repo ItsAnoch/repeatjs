@@ -1,6 +1,6 @@
 {
-  "name": "repeat",
-  "version": "1.0.0",
+  "name": "repeatjs",
+  "version": "1.0.3",
   "description": "A JS library to remove boilerplate from for-loops.",
   "main": "index.js",
   "type": "module",
@@ -13,7 +13,19 @@
     "url": "https://github.com/ItsAnoch/repeatjs/tree/main/lib"
   },
   "homepage": "https://github.com/ItsAnoch/repeatjs/blob/main/README.md",
-  "keywords": ["repeat", "loop", "boilerplate", "fastloop", "forloop", "whileloop", "repeatjs", "repeatcode", "ease", "anoch", "anoch jeyakanthan"],
+  "keywords": [
+    "repeat",
+    "loop",
+    "boilerplate",
+    "fastloop",
+    "forloop",
+    "whileloop",
+    "repeatjs",
+    "repeatcode",
+    "ease",
+    "anoch",
+    "anoch jeyakanthan"
+  ],
   "author": "Anoch Jeyakanthan",
   "license": "ISC"
 }
