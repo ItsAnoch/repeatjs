@@ -10,9 +10,9 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/ItsAnoch/repeatjs/tree/main/lib"
   },
-  "homepage": "",
+  "homepage": "https://github.com/ItsAnoch/repeatjs/blob/main/README.md",
   "keywords": ["repeat", "loop", "boilerplate", "fastloop", "forloop", "whileloop", "repeatjs", "repeatcode", "ease", "anoch", "anoch jeyakanthan"],
   "author": "Anoch Jeyakanthan",
   "license": "ISC"
