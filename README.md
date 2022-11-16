@@ -1,4 +1,4 @@
-# Repeat
+# RepeatJS
 #### JS Library to remove boiler-plate from loops.
 #### Exact same speed as a normal for-loop.
 ---
